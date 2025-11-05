@@ -1,0 +1,16 @@
+#C file
+
+*main.c
+
+# Ignore files with specific prefixes
+8-p*
+9-h*
+10-d*
+11-s*
+12-l*
+13-n*
+14-ba*
+15-f*
+16-p*
+17-s*
+18-u*
